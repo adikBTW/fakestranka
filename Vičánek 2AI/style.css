@@ -1,0 +1,35 @@
+.row{
+    display: flex;
+}
+.column{
+    width: 50%;
+    display: flex;
+}
+.background{
+    background-color: bisque;
+    opacity: 0.5;
+}
+.logo img{
+    width: 25%;
+}
+.img-str{
+    width: 99%;
+}
+h1{
+    color: black;
+}
+footer{
+    color: black;
+}
+.text{
+    color: red;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(57, 39, 39);
+    color: white;
+    text-align: center;
+  }
